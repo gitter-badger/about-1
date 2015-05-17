@@ -1,0 +1,11 @@
+# Site settings
+title: Hugo González Labrador
+email: contact@hugo.labkode.com
+description: "Simplicity is the ultimate form of sophistication"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: labkode
+github_username:  labkode
+linkedin_username: labkode
+# Build settings
+markdown: kramdown

@@ -1,0 +1,24 @@
+- name: "CERNBox"
+  web: "http://cernbox.cern.ch"
+  logo: "cernbox-logo.png"
+  repo: "https://github.com/cernbox"
+  summary: "CERNBOX provides synchronisation capabilities between a user machine (desktop PC, smart phone or tablet) and a central repository managed by CERN IT department. In this initial phase it provides a functionality analogous to Dropbox or similar system."
+
+- name: "Instanto"
+  web: "http://instanto.github.io"
+  logo: "instanto-logo.png"
+  repo: "https://github.com/instanto"
+  summary: "Instanto platform allows you to manage all the complex enviroment of a research group."  
+
+- name: "Sanato"
+  web: "http://sanato.github.io"
+  logo: "sanato-logo.png"
+  repo: "https://github.com/sanato"
+  summary: "Sanato is an on-premise file hosting service to allow universal access to a central repository through a web interface or via WebDAV protocol."  
+
+
+- name: "LIA2 CMS"
+  web: "http://lia.ei.uvigo.es"
+  logo: "lia-logo.png"
+  repo: ""
+  summary: "LIA2 CMS is a custom CMS to help LIA research group to manage the relationships between different areas like publications, members, partners, researchs ..."  

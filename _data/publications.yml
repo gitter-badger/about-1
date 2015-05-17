@@ -1,0 +1,24 @@
+- title: "Cernbox + EOS: Cloud Storage for Science"
+  url: "http://indico.cern.ch/event/320819/session/6/contribution/52"
+  authors: "Luca Mascetti, Jakub Mosciki, Andreas Joachim Peters, Hugo González Labrador, Massimo Lamanna"
+  location: "Talk at HEPiX Fall 2014 Workshop"
+  summary: "Cernbox is a cloud synchronization service for end-users: it allows to sync and share files on all major platforms (Linux, Windows, MacOSX, Android, iOS). The very successful beta phase of the service demonstrated high demand in the community for such easily accessible cloud storage solution. Integration of Cernbox service with the EOS storage backend is the next step towards providing sync and share capabilities for scientific and engineering use-cases. In this report we will present lessons learnt from the beta phase of the Cernbox service, key technical aspects of Cernbox/EOS integration and new, emerging usage possibilities. The latter include the ongoing integration of sync and share capabilities with the LHC data analysis tools and transfer services."
+
+- title: "Cloud Storage for (Big and Small) Science"
+  url: "http://www.terena.org/activities/tf-storage/ws17/slides/Cernbox-Status-Update-Terena-Sept-14.pdf" 
+  authors: "Hugo González Labrador, Massimo Lamanna and Jakub Moscicki"
+  location: "Talk at 15th TF-Storage Meeting"
+
+- title: "Site report: CERNBOX"
+  url: "https://indico.cern.ch/event/336753/session/3/contribution/0"
+  authors: "Hugo González Labrador"
+  location: "Talk at Workshop on Cloud Services for File Synchronisation and Sharing 2014"
+  summary: "Cloud sharing and data synchronization over modern backend storages, like EOS."
+
+- title: "Disk storage at CERN"
+  url: "https://indico.cern.ch/event/304944/contribution/323"
+  authors: "Luca MACETTI, Dr. Xavier ESPINAL CURULL, Herve ROUSSEAU, Dan VAN DER STER, Hugo GONZALEZ LABRADOR, Jan IVEN, Massimo LAMANNA, Belinda CHAN KWOK CHEONG, Alessandro FIOROT, Giuseppe LO PRESTI, Sebastien PONCE, Andrea IERI, Dr. Jakub MOSCICKI"
+  location: "Talk at 21st International Conference on Computing in High Energy and Nuclear Physics (CHEP2015)"
+  summary: "CERN IT DSS operates the main storage resources for data taking and physics analysis mainly via three system: AFS, CASTOR and EOS. The total usable space available for users is about 100 PB (with relative ratios 1:20:120). EOS deploys disk resources across the two CERN computer centres (Meyrin and Wigner) with a current ratio 60% to 40%. IT DSS is also providing sizable on-demand resources for general IT services most notably OpenStack and NFS clients. This is provided by our Ceph infrastructure and a few of proprietary servers (NetApp) for a total capacity of ~1 PB. We will describe our operational experience and recent changes to these systems with special emphasis to the following items: 
+Present usages for LHC data taking (new roles of CASTOR and EOS) Convergence to commodity hardware (nodes with 200-TB each with optional SSD) shared across all services Detailed study of the failure modes in the different services and approaches (RAID, RAIN, ZFS vs XFS, etc...) 
+Disaster recovery strategies (across the two CERN computer centres) Experience in coupling commodity and home-grown solution (e.g. Ceph disk pools for AFS, CASTOR and NFS) Future evolution of these systems in the WLCG realm and beyond."
